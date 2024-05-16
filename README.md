@@ -19,7 +19,7 @@ Input file (parameter.txt)
 Tab separated file    
 ````
 baseT	criticalT	alpha	beta	optimumP	criticalP	threshold	RmaxVeg	RmaxRep
-10	36	1.5	0.5	13	16	100	1.05	1.
+9.5	35.5	1.9	1.2	13	16	189	-12	-15
 ````
 Input file (weather files)    
 -------------
